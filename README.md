@@ -1,1 +1,1 @@
-# Django-CRUD-Operation-Using-MySQL
+# jQuery
